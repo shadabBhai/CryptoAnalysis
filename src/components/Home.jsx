@@ -22,6 +22,7 @@ const Home = () => {
         <Image
           w={"full"}
           h={"full"}
+          boxsize ={"100vh"}
           objectFit={"contain"}
           src={btcSrc}
           filter={"grayscale(1)"}
